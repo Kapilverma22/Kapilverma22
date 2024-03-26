@@ -3,9 +3,9 @@
 
 # 💫 About Me:
 - 🔭 I’m currently a Fresher
--🤝 I’m looking for Business Analytics, Data Analytics role
--🌱 I’m currently learning Python, Machine Learning
--💬 Ask me about Excel, SQL, Power Bi
+- 🤝 I’m looking for Business Analytics, Data Analytics role
+- 🌱 I’m currently learning Python, Machine Learning
+- 💬 Ask me about Excel, SQL, Power Bi
 
 
 <!---
