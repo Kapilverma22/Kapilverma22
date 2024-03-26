@@ -1,14 +1,12 @@
-# #                                                                    Hi 👋, I'm Kapil Verma
+#                                                                   Hi 👋, I'm Kapil Verma
 #                                                              A passionate Data Analytics from India
 
+# 💫 About Me:
+🔭 I’m currently a Fresher
+🤝 I’m looking for Business Analytics, Data Analytics role
+🌱 I’m currently learning Python, Machine Learning
+💬 Ask me about Excel, SQL, Power Bi
 
-- 👋 Hi, I’m @Kapilverma22
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Kapilverma22/Kapilverma22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
